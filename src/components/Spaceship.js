@@ -16,6 +16,7 @@ class Spaceship extends React.Component {
       </div>
     )
   }
+  
 }
 
 Spaceship.defaultProps = {
